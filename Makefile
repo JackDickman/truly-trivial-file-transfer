@@ -1,5 +1,5 @@
 PORT = 6666
-FILE = 513bytes.bin
+FILE = 513bytes.bin #some file name in the server directory
 SERVER = localhost
 LOCALHOST = localhost
 FILE_S = file-on-server.txt
